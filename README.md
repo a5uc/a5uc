@@ -1,5 +1,4 @@
-# André Suchodolak
-Electrical Engineer | Project Management Specialist | Master in Human Resources
+Im a Electrical Engineer | Project Management Specialist | Master in Human Resources
 
  <div>
   <a href="https://github.com/a5uc">

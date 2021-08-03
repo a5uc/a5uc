@@ -4,7 +4,7 @@ Electrical Engineer | Project Management Specialist | Master in Human Resources
  <div>
   <a href="https://github.com/a5uc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a5uc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a5uc&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a5uc&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="a5uc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

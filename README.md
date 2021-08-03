@@ -1,9 +1,11 @@
-Im a Electrical Engineer | Project Management Specialist | Master in Human Resources
+#André Suchodolak
+Electrical Engineer | Project Management Specialist | Master in Human Resources
 
- <div>
+<div>
   <a href="https://github.com/a5uc">
   <img src="https://github-readme-stats.vercel.app/api?username=a5uc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a5uc&theme=dark"/>
+  </a>
 </div>
 <br>
 <div> 
